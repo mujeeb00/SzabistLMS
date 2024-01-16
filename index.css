@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Libre+Baskerville&family=M+PLUS+Code+Latin:wght@200;400&family=Merriweather:wght@300&family=Nunito+Sans:wght@800&family=Roboto:wght@100;500;900&family=Space+Grotesk&family=Zilla+Slab+Highlight:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.fill-body {
+    fill: #222529 !important;
+}
+
+body{
+    background-color: #222529;
+}
+.nav-drop li:hover{
+       background-color: #3973a8a2;
+       border-radius: 0.5rem;
+}
+.nav-drop:hover{
+    padding: 1rem;
+}
+.dropdown-menu{
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    font-weight: 500;
+    font-size: 0.7rem;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+
+.fa-solid, .fas{
+    font-weight: 700;
+}
+.fill-success {
+    fill: #0CBC87;
+}
+.fill-warning {
+    fill: #f7c32e !important;
+}
+.fill-purple{
+    fill: rgb(83,55,136);
+}
+.fill-liblue{
+    fill: #17A2B8;
+}
+.fill-blue{
+    fill: #1D3B53;
+}
+.fill-danger{
+    fill: #DC3545;
+}
+.fill-orange {
+    fill: #fd7e14 ;
+}
+.fill-secondary{
+    fill: #95A19C;
+}
+.text-success{
+   color: #0CBC87;
+}
+.para-color{
+    color: #95A19C;
+}
+.cards{
+    background-color: rgb(42,44,49);
+}
+.img-hover:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+  
+.bg-color{
+    background-color: #bcc4c8;
+}
+
+.box-container{
+    background-color:#2A2C31 ;
+}
+.nav-link{
+    color: #bfc0c9 !important;
+}
+.nav-link:hover{
+    color: #066AC9 !important;
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
